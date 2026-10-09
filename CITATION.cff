@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Insider-threat risk scoring: ETL pipeline and deterministic scoring code"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Mashayekhi
+    given-names: Shamila
+    orcid: "https://orcid.org/0009-0001-6179-4743"
+  - family-names: Fox
+    given-names: Angelika
+  - family-names: Pradhan
+    given-names: Prakriti
+  - family-names: Lyons
+    given-names: Tyler
+  - family-names: Saheb
+    given-names: Tahereh Sonia
+repository-code: "https://github.com/Shamymash/insider-threat-risk-scoring"
+preferred-citation:
+  type: article
+  title: "A Transparent, Ethically-Bounded Framework for Insider-Threat Risk Scoring in Financial Services"
+  authors:
+    - family-names: Mashayekhi
+      given-names: Shamila
+    - family-names: Fox
+      given-names: Angelika
+    - family-names: Pradhan
+      given-names: Prakriti
+    - family-names: Lyons
+      given-names: Tyler
+    - family-names: Saheb
+      given-names: Tahereh Sonia
+  year: 2026
+  journal: "SSRN (preprint)"
+  doi: "10.2139/ssrn.7500999"
